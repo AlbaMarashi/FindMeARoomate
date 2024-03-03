@@ -32,3 +32,4 @@ namespace FindMeARoommate.DataLayer.Entities
         public bool IsAdmin { get; set; }
     }
 }
+//coment
